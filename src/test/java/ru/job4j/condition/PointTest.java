@@ -17,7 +17,7 @@ public class PointTest {
         Assert.assertEquals(expected, out, 0.01);
     }
 
-    @Test
+     @Test
     public void when211to20then11() {
         double expected = 11;
         int x1 = 2;
